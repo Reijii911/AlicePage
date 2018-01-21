@@ -1,0 +1,64 @@
+.navbar {
+    /*background-image: url(https://lh6.googleusercontent.com/-9ujYAXFGEYg/T7jZteiALxI/AAAAAAAAAFY/cg334BrxzaQ/h120/nbg.gif);*/
+    background-color:aquamarine;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5)
+}
+
+.navbar .button-section {
+    position: absolute;
+    right: 200px;
+    top: 20%;
+}
+
+.navbar .navpart img {
+    position: absolute;
+    top: auto;
+    left:200px;
+}
+
+.button {
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    margin: 10px;
+    background-color:aliceblue;
+}
+
+.about {
+    background-color: ghostwhite;
+    margin: auto;
+    align-content: center;
+    width: 80%;
+    border-style: none;
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+}
+
+.portfolio {
+    background-color: ghostwhite;
+    margin: auto;
+    align-content: center;
+    width: 80%;
+}
+
+.contact {
+    background-color: ghostwhite;
+    margin: auto;
+    align-content: center;
+    width: 80%;
+}
+footer {
+    width: 100%;
+}
+
+.nav-bottom {
+    display: table-cell;
+}
+.rights {
+    text-align: center;
+}
